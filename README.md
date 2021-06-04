@@ -1,6 +1,6 @@
 # attendance_app
 
-A new Flutter project.
+A Flutter Attendance App using QR Code and GPS
 
 ## Getting Started
 
